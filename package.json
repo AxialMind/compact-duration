@@ -1,0 +1,31 @@
+{
+  "name": "compact-duration",
+  "version": "1.0.0",
+  "description": "compact-duration formats seconds, ms into clean, human-friendly strings like \"1hr 2mins\", \"2 months 3 days\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AxialMind/compact-duration.git"
+  },
+  "keywords": [
+    "javascript",
+    "duration",
+    "time",
+    "typescript",
+    "format",
+    "minutes",
+    "pretty",
+    "compact",
+    "hours",
+    "humanize"
+  ],
+  "author": "amxnpm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AxialMind/compact-duration/issues"
+  },
+  "homepage": "https://github.com/AxialMind/compact-duration#readme"
+}
